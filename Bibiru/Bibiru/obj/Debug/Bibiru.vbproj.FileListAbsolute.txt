@@ -1,0 +1,17 @@
+C:\Users\Guest\Desktop\Bibiru\Bibiru\bin\Debug\Bibiru.exe.config
+C:\Users\Guest\Desktop\Bibiru\Bibiru\bin\Debug\Bibiru.exe
+C:\Users\Guest\Desktop\Bibiru\Bibiru\bin\Debug\Bibiru.pdb
+C:\Users\Guest\Desktop\Bibiru\Bibiru\bin\Debug\Bibiru.xml
+C:\Users\Guest\Desktop\Bibiru\Bibiru\obj\Debug\Bibiru.vbprojAssemblyReference.cache
+C:\Users\Guest\Desktop\Bibiru\Bibiru\obj\Debug\Bibiru.AgregarAlumnos.resources
+C:\Users\Guest\Desktop\Bibiru\Bibiru\obj\Debug\Bibiru.AgregarLibros.resources
+C:\Users\Guest\Desktop\Bibiru\Bibiru\obj\Debug\Bibiru.Libros.resources
+C:\Users\Guest\Desktop\Bibiru\Bibiru\obj\Debug\Bibiru.Resources.resources
+C:\Users\Guest\Desktop\Bibiru\Bibiru\obj\Debug\Bibiru.Prestamos.resources
+C:\Users\Guest\Desktop\Bibiru\Bibiru\obj\Debug\Bibiru.vbproj.GenerateResource.cache
+C:\Users\Guest\Desktop\Bibiru\Bibiru\obj\Debug\Bibiru.vbproj.CoreCompileInputs.cache
+C:\Users\Guest\Desktop\Bibiru\Bibiru\obj\Debug\Bibiru.exe
+C:\Users\Guest\Desktop\Bibiru\Bibiru\obj\Debug\Bibiru.xml
+C:\Users\Guest\Desktop\Bibiru\Bibiru\obj\Debug\Bibiru.pdb
+C:\Users\Guest\Desktop\Bibiru\Bibiru\obj\Debug\Bibiru.Alumnoso.resources
+C:\Users\Guest\Desktop\Bibiru\Bibiru\obj\Debug\Bibiru.Menus.resources
