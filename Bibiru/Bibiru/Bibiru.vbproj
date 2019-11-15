@@ -73,11 +73,22 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Alumnos.vb">
+    <Compile Include="AgregarAlumnos.Designer.vb">
+      <DependentUpon>AgregarAlumnos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarAlumnos.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Alumnos.Designer.vb">
-      <DependentUpon>Alumnos.vb</DependentUpon>
+    <Compile Include="AgregarLibros.Designer.vb">
+      <DependentUpon>AgregarLibros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarLibros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alumnoso.Designer.vb">
+      <DependentUpon>Alumnoso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Alumnoso.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Libros.Designer.vb">
@@ -86,10 +97,10 @@
     <Compile Include="Libros.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Menu.Designer.vb">
-      <DependentUpon>Menu.vb</DependentUpon>
+    <Compile Include="Menus.Designer.vb">
+      <DependentUpon>Menus.vb</DependentUpon>
     </Compile>
-    <Compile Include="Menu.vb">
+    <Compile Include="Menus.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -115,14 +126,20 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Alumnos.resx">
-      <DependentUpon>Alumnos.vb</DependentUpon>
+    <EmbeddedResource Include="AgregarAlumnos.resx">
+      <DependentUpon>AgregarAlumnos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarLibros.resx">
+      <DependentUpon>AgregarLibros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alumnoso.resx">
+      <DependentUpon>Alumnoso.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Libros.resx">
       <DependentUpon>Libros.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Menu.resx">
-      <DependentUpon>Menu.vb</DependentUpon>
+    <EmbeddedResource Include="Menus.resx">
+      <DependentUpon>Menus.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
